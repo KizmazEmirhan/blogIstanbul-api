@@ -1,0 +1,4 @@
+MFhWX5pFHsTSdlBX:mongo password
+emirhankizmaz46:username
+
+mongodb+srv://emirhankizmaz46:MFhWX5pFHsTSdlBX@blogsiteproject.qotuslx.mongodb.net/?retryWrites=true&w=majority&appName=blogSiteProject
